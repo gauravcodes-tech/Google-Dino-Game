@@ -1,13 +1,13 @@
 
 //board
 let board;
-let boardWidth = 750;
+let boardWidth = 755;
 let boardHeight = 250;
 let context;
 
 //dino
 let dinoWidth = 87;
-let dinoHeight = 90;
+let dinoHeight = 88;
 let dinoX = 50;
 let dinoY = boardHeight - dinoHeight;
 let dinoImg;
